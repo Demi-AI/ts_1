@@ -8,7 +8,7 @@ export default defineConfig({
       overlay: false,
     },
   },
-  base: '/ts/', // 設定基礎路徑
+  base: '/ts_1/', // 設定基礎路徑
   build: {
     outDir: 'dist',
     rollupOptions: {
